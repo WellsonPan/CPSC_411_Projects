@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MiniApp1Retry</string>
+    <string name="mbpsText">Mbps</string>
+    <string name="mibText">MiB</string>
+    <string name="convertText">Convert</string>
+    <string name="timeText">Time (Secs)</string>
+    <string name="mbpsPrompt">0</string>
+    <string name="mibPrompt">1</string>
+    <string name="timePrompt">Time</string>
+</resources>

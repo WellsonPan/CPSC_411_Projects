@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">App1</string>
+    <string name="validity">Enter valid numbers</string>
+    <string name="weight">Weight(kg)</string>
+    <string name="height">Height(cm)</string>
+    <string name="zero">0</string>
+    <string name="one">1</string>
+    <string name="bmi">BMI</string>
+    <string name="subtotal">Subtotal:</string>
+    <string name="tip">Tip%:</string>
+    <string name="split">Split:</string>string>
+    <string name="total">Total:</string>
+    <string name="cost">Cost/Price:</string>
+    <string name="tax">Sales Tax%:</string>
+    <string name="totalTax">Total Tax:</string>
+    <string name="convert">Convert</string>
+    <string name="selectUnit">Select a unit</string>
+
+    <string-array name="lengths">
+        <item>Centimeters</item>
+        <item>Meters</item>
+        <item>Kilometers</item>
+        <item>Inches</item>
+        <item>Feet</item>
+        <item>Yards</item>
+        <item>Miles</item>
+    </string-array>
+
+    <string-array name="weights">
+        <item>Milligrams</item>
+        <item>Grams</item>
+        <item>Kilograms</item>
+        <item>Metric Tons</item>
+        <item>Ounces</item>
+        <item>Pounds</item>
+        <item>Tons</item>
+    </string-array>
+</resources>
